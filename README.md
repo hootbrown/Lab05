@@ -1,2 +1,2 @@
-# Lab05
-My homework for lab05
+# Lab06
+Lab06 homework assignment
